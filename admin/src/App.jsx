@@ -9,7 +9,7 @@ import Login from './components/Login'
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-export const backendUrl = "https://elegant-backend-7j3xeakkx-atomworkplaces-projects.vercel.app/"
+export const backendUrl = "https://elegant-backend-two.vercel.app"
 export const currency = '$'
 
 const App = () => {
