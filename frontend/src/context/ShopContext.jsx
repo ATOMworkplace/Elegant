@@ -9,7 +9,7 @@ const ShopContextProvider = (props) => {
 
     const currency = '$';
     const delivery_fee = 10;
-    const backendUrl = "https://elegant-backend-two.vercel.app"
+    const backendUrl = "https://elegant-backend-one.vercel.app"
     const [search, setSearch] = useState('');
     const [showSearch, setShowSearch] = useState(false);
     const [cartItems, setCartItems] = useState({});
