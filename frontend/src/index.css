@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
-<<<<<<< HEAD
-@import "tailwindcss";
-=======
-@import "tailwindcss"
->>>>>>> 1307000f6a4920b1f7a723b6e42fa0edfd15f129
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
