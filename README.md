@@ -11,9 +11,7 @@ This project showcases core full-stack development expertise through:
 * **Full-Stack MERN Architecture:** Developed a scalable application using MongoDB, Express.js, React.js, and Node.js.
 * **Stripe Payment Gateway Integration:** Implemented secure, server-side Stripe API for payment processing.
 * **Role-Based Access Control (RBAC):** Engineered JWT-based authentication for distinct user and admin roles.
-* **Centralized State & Routing:** Utilized React Context API and React Router DOM for efficient SPAs.
-* **Modular & Responsive UI:** Built adaptive user interfaces with React components and Tailwind CSS.
-
+* **Comprehensive Admin & User Features:** Implemented an admin panel for product/order management and a user experience featuring advanced product discovery, cart management, and order tracking.
 ---
 ## Screenshots:
 
