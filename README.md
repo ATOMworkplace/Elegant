@@ -12,35 +12,44 @@ This project showcases core full-stack development expertise through:
 * **Stripe Payment Gateway Integration:** Implemented secure, server-side Stripe API for payment processing.
 * **Role-Based Access Control (RBAC):** Engineered JWT-based authentication for distinct user and admin roles.
 * **Comprehensive Admin & User Features:** Implemented an admin panel for product/order management and a user experience featuring advanced product discovery, cart management, and order tracking.
+
 ---
+
 ## Screenshots:
 
-
-![image](https://github.com/user-attachments/assets/b961fb57-3056-4e8d-b585-dcf6c3d8f42c)
-
-![image](https://github.com/user-attachments/assets/19cbf0e1-5191-4ca5-9bbe-bdbc31d73d75)
-
-![image](https://github.com/user-attachments/assets/99e7628c-cd58-498a-8ba1-ed82dc64ad67)
-
-![image](https://github.com/user-attachments/assets/93cee43a-7807-41cb-a99e-cb371dc634fa)
-
-![image](https://github.com/user-attachments/assets/e45a116c-251c-4ad7-aab0-d82b6a8655b0)
-
-![image](https://github.com/user-attachments/assets/cb1b7eae-d826-42f9-8fe7-a439a066ff12)
-
-![image](https://github.com/user-attachments/assets/4cd0f6d3-37af-4597-96aa-5dd6fa2d48b5)
-
-![image](https://github.com/user-attachments/assets/53baa83d-010e-4548-88d3-917e9cbac01a)
-
-![image](https://github.com/user-attachments/assets/02438d4a-93db-4b51-a0c8-2872fcc5a3c4)
-
-![image](https://github.com/user-attachments/assets/aec55a45-21ef-4748-9575-4f1df8ef2d8c)
-
-![image](https://github.com/user-attachments/assets/da5df323-d917-4fd5-ad4a-b8d168612aae)
-
-
-
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/b961fb57-3056-4e8d-b585-dcf6c3d8f42c" alt="Screenshot 1" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/19cbf0e1-5191-4ca5-9bbe-bdbc31d73d75" alt="Screenshot 2" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/99e7628c-cd58-498a-8ba1-ed82dc64ad67" alt="Screenshot 3" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/93cee43a-7807-41cb-a99e-cb371dc634fa" alt="Screenshot 4" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e45a116c-251c-4ad7-aab0-d82b6a8655b0" alt="Screenshot 5" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/cb1b7eae-d826-42f9-8fe7-a439a066ff12" alt="Screenshot 6" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/4cd0f6d3-37af-4597-96aa-5dd6fa2d48b5" alt="Screenshot 7" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/53baa83d-010e-4548-88d3-917e9cbac01a" alt="Screenshot 8" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/02438d4a-93db-4b51-a0c8-2872fcc5a3c4" alt="Screenshot 9" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/aec55a45-21ef-4748-9575-4f1df8ef2d8c" alt="Screenshot 10" width="70%">
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/da5df323-d917-4fd5-ad4a-b8d168612aae" alt="Screenshot 11" width="70%">
+</p>
 
 ---
 
