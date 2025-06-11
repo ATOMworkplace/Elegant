@@ -1,5 +1,4 @@
 # Elegant: E-commerce Website
-
 ---
 
 **Live Website:** https://elegant-frontend.vercel.app/
