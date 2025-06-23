@@ -4,7 +4,6 @@
 **Live Website:** https://elegant-frontend.vercel.app/
 
 ## Technical Highlights
-
 This project showcases core full-stack development expertise through:
 
 * **Full-Stack MERN Architecture:** Developed a scalable application using MongoDB, Express.js, React.js, and Node.js.
